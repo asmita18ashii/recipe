@@ -1,0 +1,26 @@
+
+.nav{
+
+    padding-right: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 7em;
+
+    justify-items: center;
+    font-weight: 600;
+    box-shadow: 2px 2px 2px#808fa0;
+}
+.body{
+    margin-left: 40%;
+    margin-right: 40%;
+}
+.body input{
+    width: 100%;
+}
+.body button{
+    background-color: rgb(139, 131, 131);
+    color: aliceblue;
+    border-radius: 5px;
+   
+}

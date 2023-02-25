@@ -1,0 +1,53 @@
+.maindivs{
+    background-color: #e0a98c;
+    width: 100%;
+    height: 60%;
+    padding: 3px;
+    padding-bottom: 30%;
+}
+.sections{
+    height: 40%;
+    margin-top: 5%;
+    margin-left: 38%;
+    margin-right: 38%;
+    padding: 6px;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    background-color: white ;
+    border-radius: 7%;
+}
+.h1s{
+    text-align: left;
+    align-items: center;
+    font-size: larger;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #cbc9c8;
+
+}
+.inputs{
+    width: 100%;
+}
+.inputs input{
+    width: 90%;
+    border: #cbc9c8 ;
+    margin-bottom: 5%;
+    margin-left: 3%;
+    border-style: none none solid none 
+}
+
+.ps{
+    color: #cbc9c8;
+}
+.ps span{
+    color: black;
+}
+.submitButtons{
+    margin-left: 10%;
+    margin-right: 10%;
+    height: 30px;
+    text-align: center;
+    background-color: #e0a98c;
+    border: 1px solid #e0a98c;
+    width: 70%;
+    border-radius: 4px;
+}

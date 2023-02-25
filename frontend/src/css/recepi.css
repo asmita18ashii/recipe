@@ -1,0 +1,33 @@
+.container{
+    background-color: black;
+    color: white;
+}
+.h1c{
+    font-size: xx-large;
+    font-weight:600;
+}
+.hrc{
+    width: 100%;
+    border-color:white ;
+}
+.divc{
+    padding-top: 20px;
+    margin-left: 34%;
+    margin-right: 30%;
+}
+.divc input{
+    width: 90%;
+    height: 20px;
+    margin-bottom:3%;
+}
+.divc textarea{
+    width: 90%;
+    height: 20px;
+}
+.h2c{
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+}
+.full-width{
+    width: 90%;
+}
